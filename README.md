@@ -27,6 +27,8 @@ Meta model:
 
 `XGBoost`
 
+<img width="630" height="155" alt="Image" src="https://github.com/user-attachments/assets/912deb80-8c20-416d-bfe9-3687064bcf41" />
+
 ## Results
 | Metric        | Score       |
 | ------------- | ----------- |
